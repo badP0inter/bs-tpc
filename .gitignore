@@ -6,3 +6,7 @@ dist/ba_data/fonts
 dist/ba_data/models
 dist/ba_data/python
 dist/ba_root/.bs*
+config.yaml
+bombsquad_server
+README.txt
+dist/bombsquad_headless
