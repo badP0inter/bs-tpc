@@ -1,6 +1,6 @@
 {
     "whitelist": false,
-    "useV2Account": false,
+    "useV2Account": true,
     "Anti-IdRevealer": false,
     "ChatCommands": {
   	  "BrodcastCommand": true
@@ -14,7 +14,7 @@
             "msg":[
                 "type end to start end vote",
                 "start msg with prefix .(dot) to send in game popup msg",
-                "start msg with prefix ,(comma) to send msg to teammates",
+                "Use comma (,) as prefix to send messages to teammates.",
                 "BombSquad Community Server - BCS"
                 ]
         }
@@ -86,27 +86,27 @@
     },
     "afk_remover":{
         "enable":true,
-        "ingame_idle_time_in_secs":60,
+        "ingame_idle_time_in_secs":120,
         "kick_idle_from_lobby":true,
-        "lobby_idle_time_in_secs":10
+        "lobby_idle_time_in_secs":120
     },
     "allowTeamChat":true,
     "allowEndVote":true,
     "allowInGameChat":true,
     "sameCharacterForTeam":false,
     "newResultBoard":true,
-    "HostDeviceName":"v1.4",
-    "HostName":"BCS",
+    "HostDeviceName":"v1.8",
+    "HostName":"Glitchcluster",
     "ShowKickVoteStarterName":true,
     "KickVoteMsgType":"chat",
-    "minAgeToChatInHours":78,
-    "minAgeToJoinInHours":24,
-    "maxWarnCount":2,
+    "minAgeToChatInHours":24,
+    "minAgeToJoinInHours":12,
+    "maxWarnCount":3,
     "WarnCooldownMinutes":30,
-    "warnMsg":"WARNING !!!",
-    "afterWarnKickMsg":"Enough warnings, Goodbye have a nice day :)",
-    "firstTimeJoinMsg":"Welcome to the server,we r saving all your account details and chats",
-    "regularWelcomeMsg":"Welcome Back",
+    "warnMsg":"You are breaking the rules. Stop.",
+    "afterWarnKickMsg":"You have been kicked from the server.",
+    "firstTimeJoinMsg":"Welcome to The Private Cloud!",
+    "regularWelcomeMsg":"Welcome back.",
     "enabletags": true,
     "enablehptag": true,
     "enablerank": true,

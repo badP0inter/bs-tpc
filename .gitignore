@@ -6,6 +6,9 @@ dist/ba_data/data
 dist/ba_data/fonts
 dist/ba_data/models
 dist/ba_root/.bs*
+dist/ba_root/config.json*
+dist/ba_root/stats/stats*
+dist/ba_root/mods/serverData
 config.yaml
 bombsquad_server
 README.txt
