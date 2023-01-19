@@ -10,4 +10,3 @@ dist/ba_root/.bs*
 config.yaml
 bombsquad_server
 README.txt
-dist/bombsquad_headless
