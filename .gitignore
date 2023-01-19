@@ -8,7 +8,9 @@ dist/ba_data/models
 dist/ba_root/.bs*
 dist/ba_root/config.json*
 dist/ba_root/stats/stats*
-dist/ba_root/mods/serverData
+dist/ba_root/mods/playerData/*.json*
+dist/ba_root/mods/serverData/*.log
+dist/ba_root/mods/serverData/*.json
 config.yaml
 bombsquad_server
 README.txt
